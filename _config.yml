@@ -1,0 +1,11 @@
+# basic options, i can say whatever here
+title: new-awasome-blog
+author: Shikto
+email: your-email@domain.com
+description: A wonderful blog
+twitter_username: Leanneee
+github_username:  Leanneee
+
+# Build settings
+markdown: kramdown
+theme: minima
